@@ -9,6 +9,18 @@
     color: var(--primary) ;
 }
 
+.text-dark{
+    color: var(--dark) ;
+}
+
+.buy-now-button{
+    background-color:var(--primary) ;
+    border-color: var(--primary) ;
+}
+.buy-now-button:hover {
+    background-color:var(--primary) ;
+    border-color: var(--primary) ;
+}
 .fw-medium {
     font-weight: 600 !important;
 }
